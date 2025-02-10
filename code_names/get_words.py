@@ -12,7 +12,7 @@ import random
 # print(all_words)
 
 # all_words = []
-# api_key = "1GAh+AKbtnTnevtFNlDHaw==phcK5ddt3HYDsyFw"
+# api_key = 0
 # for i in range(25):
 #     url = "https://api.api-ninjas.com/v1/randomword"
 #     headers = {"X-Api-Key": api_key}
@@ -28,7 +28,7 @@ with open("./test.txt", mode="r") as file:
 all_words = random.choices(stored_words, k=50)
 print(all_words)
 
-google_api_key = "AIzaSyCLVS-ztUHHhnIrmVN48HJbvm8DzBbofn4"
+google_api_key = 0 # add your own api key
 
 
 def translate_words_to_malayalam(words, api_key):
