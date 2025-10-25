@@ -26,4 +26,5 @@
    Mathematical and visual representation of Sierpinski Triangle - a beautiful fractal.
    
 11. Friends episode generator
+    
     To select a random episode from the episodes list of Friends tv show and to open the episode from the system. Also, to store watched episodes list to not allow repetition.
